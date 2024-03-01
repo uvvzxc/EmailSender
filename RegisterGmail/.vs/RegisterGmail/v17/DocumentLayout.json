@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B681DCCE-69E6-4B35-9D92-2D5986EE8963}|RegisterGmail.Infrastructure\\RegisterGmail.Infrastructure.csproj|c:\\users\\acer\\downloads\\uyga vazifa 27.02.2024\\registergmail\\registergmail.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B681DCCE-69E6-4B35-9D92-2D5986EE8963}|RegisterGmail.Infrastructure\\RegisterGmail.Infrastructure.csproj|solutionrelative:registergmail.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B681DCCE-69E6-4B35-9D92-2D5986EE8963}|RegisterGmail.Infrastructure\\RegisterGmail.Infrastructure.csproj|c:\\users\\acer\\downloads\\uyga vazifa 27.02.2024\\registergmail\\registergmail.infrastructure\\migrations\\20240226095221_usermigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B681DCCE-69E6-4B35-9D92-2D5986EE8963}|RegisterGmail.Infrastructure\\RegisterGmail.Infrastructure.csproj|solutionrelative:registergmail.infrastructure\\migrations\\20240226095221_usermigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B681DCCE-69E6-4B35-9D92-2D5986EE8963}|RegisterGmail.Infrastructure\\RegisterGmail.Infrastructure.csproj|c:\\users\\acer\\downloads\\uyga vazifa 27.02.2024\\registergmail\\registergmail.infrastructure\\migrations\\20240227083709_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B681DCCE-69E6-4B35-9D92-2D5986EE8963}|RegisterGmail.Infrastructure\\RegisterGmail.Infrastructure.csproj|solutionrelative:registergmail.infrastructure\\migrations\\20240227083709_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB76DA3-A0D8-4939-AEF0-15EED70F4B4E}|RegisterGmail.Domain\\RegisterGmail.Domain.csproj|c:\\users\\acer\\downloads\\uyga vazifa 27.02.2024\\registergmail\\registergmail.domain\\entities\\exceptions\\wrongpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB76DA3-A0D8-4939-AEF0-15EED70F4B4E}|RegisterGmail.Domain\\RegisterGmail.Domain.csproj|solutionrelative:registergmail.domain\\entities\\exceptions\\wrongpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB76DA3-A0D8-4939-AEF0-15EED70F4B4E}|RegisterGmail.Domain\\RegisterGmail.Domain.csproj|c:\\users\\acer\\downloads\\uyga vazifa 27.02.2024\\registergmail\\registergmail.domain\\entities\\exceptions\\wronggmailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB76DA3-A0D8-4939-AEF0-15EED70F4B4E}|RegisterGmail.Domain\\RegisterGmail.Domain.csproj|solutionrelative:registergmail.domain\\entities\\exceptions\\wronggmailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB76DA3-A0D8-4939-AEF0-15EED70F4B4E}|RegisterGmail.Domain\\RegisterGmail.Domain.csproj|c:\\users\\acer\\downloads\\uyga vazifa 27.02.2024\\registergmail\\registergmail.domain\\entities\\exceptions\\gmailexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB76DA3-A0D8-4939-AEF0-15EED70F4B4E}|RegisterGmail.Domain\\RegisterGmail.Domain.csproj|solutionrelative:registergmail.domain\\entities\\exceptions\\gmailexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B02571-A787-4CCF-A073-FF58337BF6B8}|RegisterGmail.API\\RegisterGmail.API.csproj|c:\\users\\acer\\downloads\\uyga vazifa 27.02.2024\\registergmail\\registergmail.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60B02571-A787-4CCF-A073-FF58337BF6B8}|RegisterGmail.API\\RegisterGmail.API.csproj|solutionrelative:registergmail.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B681DCCE-69E6-4B35-9D92-2D5986EE8963}|RegisterGmail.Infrastructure\\RegisterGmail.Infrastructure.csproj|c:\\users\\acer\\downloads\\uyga vazifa 27.02.2024\\registergmail\\registergmail.infrastructure\\repositories\\registerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B681DCCE-69E6-4B35-9D92-2D5986EE8963}|RegisterGmail.Infrastructure\\RegisterGmail.Infrastructure.csproj|solutionrelative:registergmail.infrastructure\\repositories\\registerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B02571-A787-4CCF-A073-FF58337BF6B8}|RegisterGmail.API\\RegisterGmail.API.csproj|c:\\users\\acer\\downloads\\uyga vazifa 27.02.2024\\registergmail\\registergmail.api\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B02571-A787-4CCF-A073-FF58337BF6B8}|RegisterGmail.API\\RegisterGmail.API.csproj|solutionrelative:registergmail.api\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB76DA3-A0D8-4939-AEF0-15EED70F4B4E}|RegisterGmail.Domain\\RegisterGmail.Domain.csproj|c:\\users\\acer\\downloads\\uyga vazifa 27.02.2024\\registergmail\\registergmail.domain\\entities\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB76DA3-A0D8-4939-AEF0-15EED70F4B4E}|RegisterGmail.Domain\\RegisterGmail.Domain.csproj|solutionrelative:registergmail.domain\\entities\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB76DA3-A0D8-4939-AEF0-15EED70F4B4E}|RegisterGmail.Domain\\RegisterGmail.Domain.csproj|c:\\users\\acer\\downloads\\uyga vazifa 27.02.2024\\registergmail\\registergmail.domain\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB76DA3-A0D8-4939-AEF0-15EED70F4B4E}|RegisterGmail.Domain\\RegisterGmail.Domain.csproj|solutionrelative:registergmail.domain\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F9B209-4242-4D68-A738-B67889AC5BF7}|RegisterGmail.Application\\RegisterGmail.Application.csproj|c:\\users\\acer\\downloads\\uyga vazifa 27.02.2024\\registergmail\\registergmail.application\\irepositories\\iregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F9B209-4242-4D68-A738-B67889AC5BF7}|RegisterGmail.Application\\RegisterGmail.Application.csproj|solutionrelative:registergmail.application\\irepositories\\iregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F9B209-4242-4D68-A738-B67889AC5BF7}|RegisterGmail.Application\\RegisterGmail.Application.csproj|c:\\users\\acer\\downloads\\uyga vazifa 27.02.2024\\registergmail\\registergmail.application\\services\\register\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F9B209-4242-4D68-A738-B67889AC5BF7}|RegisterGmail.Application\\RegisterGmail.Application.csproj|solutionrelative:registergmail.application\\services\\register\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B02571-A787-4CCF-A073-FF58337BF6B8}|RegisterGmail.API\\RegisterGmail.API.csproj|c:\\users\\acer\\downloads\\uyga vazifa 27.02.2024\\registergmail\\registergmail.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B02571-A787-4CCF-A073-FF58337BF6B8}|RegisterGmail.API\\RegisterGmail.API.csproj|solutionrelative:registergmail.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F9B209-4242-4D68-A738-B67889AC5BF7}|RegisterGmail.Application\\RegisterGmail.Application.csproj|c:\\users\\acer\\downloads\\uyga vazifa 27.02.2024\\registergmail\\registergmail.application\\services\\register\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F9B209-4242-4D68-A738-B67889AC5BF7}|RegisterGmail.Application\\RegisterGmail.Application.csproj|solutionrelative:registergmail.application\\services\\register\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B02571-A787-4CCF-A073-FF58337BF6B8}|RegisterGmail.API\\RegisterGmail.API.csproj|c:\\users\\acer\\downloads\\uyga vazifa 27.02.2024\\registergmail\\registergmail.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B02571-A787-4CCF-A073-FF58337BF6B8}|RegisterGmail.API\\RegisterGmail.API.csproj|solutionrelative:registergmail.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240226095221_UserMigration.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Infrastructure\\Migrations\\20240226095221_UserMigration.cs",
+              "RelativeDocumentMoniker": "RegisterGmail.Infrastructure\\Migrations\\20240226095221_UserMigration.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Infrastructure\\Migrations\\20240226095221_UserMigration.cs",
+              "RelativeToolTip": "RegisterGmail.Infrastructure\\Migrations\\20240226095221_UserMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:25:04.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Infrastructure\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "RegisterGmail.Infrastructure\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Infrastructure\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeToolTip": "RegisterGmail.Infrastructure\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:25:03.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240227083709_SecondMigration.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Infrastructure\\Migrations\\20240227083709_SecondMigration.cs",
+              "RelativeDocumentMoniker": "RegisterGmail.Infrastructure\\Migrations\\20240227083709_SecondMigration.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Infrastructure\\Migrations\\20240227083709_SecondMigration.cs",
+              "RelativeToolTip": "RegisterGmail.Infrastructure\\Migrations\\20240227083709_SecondMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:25:01.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WrongPasswordException.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Domain\\Entities\\Exceptions\\WrongPasswordException.cs",
+              "RelativeDocumentMoniker": "RegisterGmail.Domain\\Entities\\Exceptions\\WrongPasswordException.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Domain\\Entities\\Exceptions\\WrongPasswordException.cs",
+              "RelativeToolTip": "RegisterGmail.Domain\\Entities\\Exceptions\\WrongPasswordException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:24:57.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WrongGmailException.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Domain\\Entities\\Exceptions\\WrongGmailException.cs",
+              "RelativeDocumentMoniker": "RegisterGmail.Domain\\Entities\\Exceptions\\WrongGmailException.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Domain\\Entities\\Exceptions\\WrongGmailException.cs",
+              "RelativeToolTip": "RegisterGmail.Domain\\Entities\\Exceptions\\WrongGmailException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:24:57.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.API\\Program.cs",
+              "RelativeDocumentMoniker": "RegisterGmail.API\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.API\\Program.cs",
+              "RelativeToolTip": "RegisterGmail.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:52:47.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Application\\Services\\Register\\RegisterService.cs",
+              "RelativeDocumentMoniker": "RegisterGmail.Application\\Services\\Register\\RegisterService.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Application\\Services\\Register\\RegisterService.cs",
+              "RelativeToolTip": "RegisterGmail.Application\\Services\\Register\\RegisterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T04:26:45.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Application\\Services\\Register\\IRegisterService.cs",
+              "RelativeDocumentMoniker": "RegisterGmail.Application\\Services\\Register\\IRegisterService.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Application\\Services\\Register\\IRegisterService.cs",
+              "RelativeToolTip": "RegisterGmail.Application\\Services\\Register\\IRegisterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T04:26:28.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRegisterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Application\\IRepositories\\IRegisterRepository.cs",
+              "RelativeDocumentMoniker": "RegisterGmail.Application\\IRepositories\\IRegisterRepository.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Application\\IRepositories\\IRegisterRepository.cs",
+              "RelativeToolTip": "RegisterGmail.Application\\IRepositories\\IRegisterRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T04:20:35.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.API\\appsettings.json",
+              "RelativeDocumentMoniker": "RegisterGmail.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.API\\appsettings.json",
+              "RelativeToolTip": "RegisterGmail.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-26T11:13:26.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GmailExistsException.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Domain\\Entities\\Exceptions\\GmailExistsException.cs",
+              "RelativeDocumentMoniker": "RegisterGmail.Domain\\Entities\\Exceptions\\GmailExistsException.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Domain\\Entities\\Exceptions\\GmailExistsException.cs",
+              "RelativeToolTip": "RegisterGmail.Domain\\Entities\\Exceptions\\GmailExistsException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:32:02.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Domain\\Entities\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "RegisterGmail.Domain\\Entities\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Domain\\Entities\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "RegisterGmail.Domain\\Entities\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:14:24.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Domain\\Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RegisterGmail.Domain\\Entities\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Domain\\Entities\\Models\\User.cs",
+              "RelativeToolTip": "RegisterGmail.Domain\\Entities\\Models\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:13:37.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Infrastructure\\Repositories\\RegisterRepository.cs",
+              "RelativeDocumentMoniker": "RegisterGmail.Infrastructure\\Repositories\\RegisterRepository.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Infrastructure\\Repositories\\RegisterRepository.cs",
+              "RelativeToolTip": "RegisterGmail.Infrastructure\\Repositories\\RegisterRepository.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwFIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:09:31.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.API\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "RegisterGmail.API\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.API\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "RegisterGmail.API\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:04:08.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "RegisterGmail.API\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "RegisterGmail.API\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:03:16.8Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

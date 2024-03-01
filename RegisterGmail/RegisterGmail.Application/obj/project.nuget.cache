@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n4Q1Q0ygmJ+BTXAiKIshYVGEjf8ucfInTmzaHuI63FuemQHXLTDWb17eaVmPGKruqDQPwXTMOh0/rU+gFe7hsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\Downloads\\uyga vazifa 27.02.2024\\RegisterGmail\\RegisterGmail.Application\\RegisterGmail.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
